@@ -1,0 +1,27 @@
+﻿<Window
+    x:Class="Chapter1._1.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:ctrl="clr-namespace:WpfCustomControlLibrary1;assembly=WpfCustomControlLibrary1"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:Chapter1._1"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="MainWindow"
+    Width="800"
+    Height="450"
+    mc:Ignorable="d">
+    <Grid>
+        <StackPanel>
+            <TextBox Text="{Binding RelativeSource={RelativeSource Mode=Self}, 
+                Path=(ctrl:AttachWatermark.Watermark),
+                UpdateSourceTrigger=PropertyChanged,Mode=TwoWay}"></TextBox>
+            <!--<ctrl:WaterMarkTextbox Width="200" Height="30" />-->
+
+            <!--<TextBox x:Name="InputTest" Text="{Binding TestContent, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+            <TextBox x:Name="Test" ctrl:AttachWatermark.Watermark="{Binding ElementName=InputTest, Path=Text}" />-->
+
+            <!--<TextBox x:Name="InputTest" Text="{Binding TestContent, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+            <TextBox x:Name="BackGroundInputTest" Text="{Binding TestContent, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />-->
+        </StackPanel>
+    </Grid>
+</Window>

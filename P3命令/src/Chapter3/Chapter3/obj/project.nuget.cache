@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OWN5hJjynZUvDXEgyjavz/7+9W2Rsd+2hDr9GOnxEHaeFcKIat3LvExpcH3imISx+eigXpctGI+oOz0zxTps8A==",
+  "success": true,
+  "projectFilePath": "E:\\博客相关资料\\文章\\WPF编程进阶系列\\P3命令\\src\\Chapter3\\Chapter3\\Chapter3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.31\\microsoft.xaml.behaviors.wpf.1.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

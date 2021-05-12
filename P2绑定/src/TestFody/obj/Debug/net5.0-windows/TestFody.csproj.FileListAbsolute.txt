@@ -1,0 +1,13 @@
+E:\博客相关资料\文章\WPF编程进阶系列\P2绑定\src\TestFody\obj\Debug\net5.0-windows\MainWindow.g.cs
+E:\博客相关资料\文章\WPF编程进阶系列\P2绑定\src\TestFody\obj\Debug\net5.0-windows\App.g.cs
+E:\博客相关资料\文章\WPF编程进阶系列\P2绑定\src\TestFody\obj\Debug\net5.0-windows\TestFody_MarkupCompile.cache
+E:\博客相关资料\文章\WPF编程进阶系列\P2绑定\src\TestFody\obj\Debug\net5.0-windows\TestFody_MarkupCompile.lref
+E:\博客相关资料\文章\WPF编程进阶系列\P2绑定\src\TestFody\obj\Debug\net5.0-windows\MainWindow.baml
+E:\博客相关资料\文章\WPF编程进阶系列\P2绑定\src\TestFody\obj\Debug\net5.0-windows\TestFody.g.resources
+E:\博客相关资料\文章\WPF编程进阶系列\P2绑定\src\TestFody\obj\Debug\net5.0-windows\TestFody.GeneratedMSBuildEditorConfig.editorconfig
+E:\博客相关资料\文章\WPF编程进阶系列\P2绑定\src\TestFody\obj\Debug\net5.0-windows\TestFody.AssemblyInfoInputs.cache
+E:\博客相关资料\文章\WPF编程进阶系列\P2绑定\src\TestFody\obj\Debug\net5.0-windows\TestFody.AssemblyInfo.cs
+E:\博客相关资料\文章\WPF编程进阶系列\P2绑定\src\TestFody\obj\Debug\net5.0-windows\TestFody.csproj.CoreCompileInputs.cache
+E:\博客相关资料\文章\WPF编程进阶系列\P2绑定\src\TestFody\obj\Debug\net5.0-windows\TestFody.dll
+E:\博客相关资料\文章\WPF编程进阶系列\P2绑定\src\TestFody\obj\Debug\net5.0-windows\ref\TestFody.dll
+E:\博客相关资料\文章\WPF编程进阶系列\P2绑定\src\TestFody\obj\Debug\net5.0-windows\TestFody.pdb

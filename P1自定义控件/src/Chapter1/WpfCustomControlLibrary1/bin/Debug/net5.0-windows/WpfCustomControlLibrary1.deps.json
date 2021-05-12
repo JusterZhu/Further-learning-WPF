@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WpfCustomControlLibrary1/1.0.0": {
+        "runtime": {
+          "WpfCustomControlLibrary1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WpfCustomControlLibrary1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

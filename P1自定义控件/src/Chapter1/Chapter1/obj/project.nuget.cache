@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DckZrp0UDMXlL9aJH8TktUrd/nHoWUs7pWgXdFEy9AMCXNkkLg0b2JLGKwZRGWbo2jv/jjmrglxPyG85H0cYZw==",
+  "success": true,
+  "projectFilePath": "E:\\博客相关资料\\文章\\WPF编程进阶系列\\P1自定义控件\\src\\Chapter1\\Chapter1\\Chapter1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\materialdesigncolors\\2.0.0\\materialdesigncolors.2.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\materialdesignthemes\\4.0.0\\materialdesignthemes.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

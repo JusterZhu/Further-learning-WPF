@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Juster.Common\**" />
+    <EmbeddedResource Remove="Juster.Common\**" />
+    <None Remove="Juster.Common\**" />
+    <Page Remove="Juster.Common\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Juster.Common\Juster.Common.csproj" />
+  </ItemGroup>
+
+</Project>
