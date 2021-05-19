@@ -1,0 +1,95 @@
+﻿<Window
+    x:Class="Chapter5.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:Chapter5"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="MainWindow"
+    Width="800"
+    Height="450"
+    mc:Ignorable="d">
+    <Window.DataContext>
+        <local:MainViewModel />
+    </Window.DataContext>
+    <Window.Resources>
+        <DataTemplate x:Key="OneDataTemplate" DataType="{x:Type local:MainModel}">
+            <Border Background="{Binding Color}">
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="{Binding Name}" />
+                    <Button Width="50" Height="30" />
+                </StackPanel>
+            </Border>
+        </DataTemplate>
+        <DataTemplate x:Key="TwoDataTemplate" DataType="{x:Type local:MainModel}">
+            <Border Background="{Binding Color}">
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="{Binding Name}" />
+                    <Rectangle
+                        Width="50"
+                        Height="30"
+                        Fill="{Binding Color}" />
+                </StackPanel>
+            </Border>
+        </DataTemplate>
+        <DataTemplate x:Key="ThreeDataTemplate" DataType="{x:Type local:MainModel}">
+            <Border Background="{Binding Color}">
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="{Binding Name}" />
+                    <Rectangle
+                        Width="50"
+                        Height="30"
+                        Fill="{Binding Color}" />
+                </StackPanel>
+            </Border>
+        </DataTemplate>
+        <DataTemplate x:Key="FourDataTemplate" DataType="{x:Type local:MainModel}">
+            <Border Background="{Binding Color}">
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="{Binding Name}" />
+                    <Rectangle
+                        Width="50"
+                        Height="30"
+                        Fill="{Binding Color}" />
+                </StackPanel>
+            </Border>
+        </DataTemplate>
+        <DataTemplate x:Key="FiveDataTemplate" DataType="{x:Type local:MainModel}">
+            <Border Background="{Binding Color}">
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="{Binding Name}" />
+                    <Rectangle
+                        Width="50"
+                        Height="30"
+                        Fill="{Binding Color}" />
+                </StackPanel>
+            </Border>
+        </DataTemplate>
+        <DataTemplate x:Key="SixDataTemplate" DataType="{x:Type local:MainModel}">
+            <Border Background="{Binding Color}">
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="{Binding Name}" />
+                    <Rectangle
+                        Width="50"
+                        Height="30"
+                        Fill="{Binding Color}" />
+                </StackPanel>
+            </Border>
+        </DataTemplate>
+        <DataTemplate x:Key="SevenDataTemplate" DataType="{x:Type local:MainModel}">
+            <Border Background="{Binding Color}">
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="{Binding Name}" />
+                    <Rectangle
+                        Width="50"
+                        Height="30"
+                        Fill="{Binding Color}" />
+                </StackPanel>
+            </Border>
+        </DataTemplate>
+        <local:DataTypeTemplateSelector x:Key="HuluwaTemplateSelector" />
+    </Window.Resources>
+    <Grid>
+        <ListBox ItemTemplateSelector="{StaticResource HuluwaTemplateSelector}" ItemsSource="{Binding MainModels}" />
+    </Grid>
+</Window>
