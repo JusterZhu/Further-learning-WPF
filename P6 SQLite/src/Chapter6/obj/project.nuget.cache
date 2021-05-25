@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Uvf0xMYazU8M5Ug90dqXUjdjq/XOWQA7bUbVrdeBNmT0FkPmELA/LvZeAcbWIRHJ8mVUOvWdLK/OQR87Nwb6Ww==",
+  "success": true,
+  "projectFilePath": "E:\\博客相关资料\\文章\\WPF编程进阶系列（更新中）\\P6SQLite\\src\\Chapter6\\Chapter6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.data.sqlite\\5.0.6\\microsoft.data.sqlite.5.0.6.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.6\\microsoft.data.sqlite.core.5.0.6.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.4\\sqlitepclraw.bundle_e_sqlite3.2.0.4.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.4\\sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.0.4\\sqlitepclraw.provider.dynamic_cdecl.2.0.4.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
