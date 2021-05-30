@@ -1,0 +1,11 @@
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.Infrastructure.DataProxy\bin\Debug\net5.0-windows\Chapter8.Infrastructure.DataProxy.deps.json
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.Infrastructure.DataProxy\bin\Debug\net5.0-windows\Chapter8.Infrastructure.DataProxy.dll
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.Infrastructure.DataProxy\bin\Debug\net5.0-windows\ref\Chapter8.Infrastructure.DataProxy.dll
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.Infrastructure.DataProxy\bin\Debug\net5.0-windows\Chapter8.Infrastructure.DataProxy.pdb
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.Infrastructure.DataProxy\obj\Debug\net5.0-windows\Chapter8.Infrastructure.DataProxy.GeneratedMSBuildEditorConfig.editorconfig
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.Infrastructure.DataProxy\obj\Debug\net5.0-windows\Chapter8.Infrastructure.DataProxy.AssemblyInfoInputs.cache
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.Infrastructure.DataProxy\obj\Debug\net5.0-windows\Chapter8.Infrastructure.DataProxy.AssemblyInfo.cs
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.Infrastructure.DataProxy\obj\Debug\net5.0-windows\Chapter8.Infrastructure.DataProxy.csproj.CoreCompileInputs.cache
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.Infrastructure.DataProxy\obj\Debug\net5.0-windows\Chapter8.Infrastructure.DataProxy.dll
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.Infrastructure.DataProxy\obj\Debug\net5.0-windows\ref\Chapter8.Infrastructure.DataProxy.dll
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.Infrastructure.DataProxy\obj\Debug\net5.0-windows\Chapter8.Infrastructure.DataProxy.pdb

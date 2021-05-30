@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Chapter8.SqliteCore/1.0.0": {
+        "runtime": {
+          "Chapter8.SqliteCore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chapter8.SqliteCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.FileCore\bin\Debug\net5.0-windows\Chapter8.File.deps.json
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.FileCore\bin\Debug\net5.0-windows\Chapter8.File.dll
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.FileCore\bin\Debug\net5.0-windows\ref\Chapter8.File.dll
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.FileCore\bin\Debug\net5.0-windows\Chapter8.File.pdb
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.FileCore\obj\Debug\net5.0-windows\Chapter8.File.GeneratedMSBuildEditorConfig.editorconfig
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.FileCore\obj\Debug\net5.0-windows\Chapter8.File.AssemblyInfoInputs.cache
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.FileCore\obj\Debug\net5.0-windows\Chapter8.File.AssemblyInfo.cs
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.FileCore\obj\Debug\net5.0-windows\Chapter8.File.csproj.CoreCompileInputs.cache
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.FileCore\obj\Debug\net5.0-windows\Chapter8.File.dll
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.FileCore\obj\Debug\net5.0-windows\ref\Chapter8.File.dll
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.FileCore\obj\Debug\net5.0-windows\Chapter8.File.pdb
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.FileCore\obj\Debug\net5.0-windows\Chapter8.File.csprojAssemblyReference.cache

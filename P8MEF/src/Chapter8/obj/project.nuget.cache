@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "59galIokNd05UKimQ06pbFwrZaDAX+fSVfheDHfOP/hSqm4WLo2WfeMN47cu/j/4tDhHFw3qsTSEEq3OOjBUBQ==",
+  "success": true,
+  "projectFilePath": "E:\\博客相关资料\\文章\\WPF编程进阶系列（更新中）\\P8MEF\\src\\Chapter8\\Chapter8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.componentmodel.composition\\5.0.0\\system.componentmodel.composition.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

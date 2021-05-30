@@ -1,0 +1,11 @@
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.Infrastructure.Controls\bin\Debug\net5.0-windows\Chapter8.Infrastructure.Controls.deps.json
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.Infrastructure.Controls\bin\Debug\net5.0-windows\Chapter8.Infrastructure.Controls.dll
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.Infrastructure.Controls\bin\Debug\net5.0-windows\ref\Chapter8.Infrastructure.Controls.dll
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.Infrastructure.Controls\bin\Debug\net5.0-windows\Chapter8.Infrastructure.Controls.pdb
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.Infrastructure.Controls\obj\Debug\net5.0-windows\Chapter8.Infrastructure.Controls.GeneratedMSBuildEditorConfig.editorconfig
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.Infrastructure.Controls\obj\Debug\net5.0-windows\Chapter8.Infrastructure.Controls.AssemblyInfoInputs.cache
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.Infrastructure.Controls\obj\Debug\net5.0-windows\Chapter8.Infrastructure.Controls.AssemblyInfo.cs
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.Infrastructure.Controls\obj\Debug\net5.0-windows\Chapter8.Infrastructure.Controls.csproj.CoreCompileInputs.cache
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.Infrastructure.Controls\obj\Debug\net5.0-windows\Chapter8.Infrastructure.Controls.dll
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.Infrastructure.Controls\obj\Debug\net5.0-windows\ref\Chapter8.Infrastructure.Controls.dll
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.Infrastructure.Controls\obj\Debug\net5.0-windows\Chapter8.Infrastructure.Controls.pdb

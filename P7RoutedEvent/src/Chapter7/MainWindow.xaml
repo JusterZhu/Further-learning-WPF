@@ -1,0 +1,42 @@
+﻿<Window
+    x:Class="Chapter7.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:Chapter7"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="MainWindow"
+    Width="800"
+    Height="450"
+    mc:Ignorable="d">
+    <StackPanel>
+        <Grid
+            Width="150"
+            Height="60"
+            Background="Red"
+            MouseDown="Grid_MouseDown">
+            <Button
+                Width="100"
+                Height="30"
+                Click="Button_Click_1"
+                Content="PointToPoint" />
+        </Grid>
+        <Grid
+            x:Name="grid1"
+            Width="150"
+            Margin="5"
+            Background="Red">
+            <StackPanel
+                x:Name="stackPanel1"
+                Margin="10"
+                Background="Yellow">
+                <Button
+                    x:Name="button1"
+                    Width="100"
+                    Height="50"
+                    Margin="5"
+                    Content="RoutedEvent" />
+            </StackPanel>
+        </Grid>
+    </StackPanel>
+</Window>

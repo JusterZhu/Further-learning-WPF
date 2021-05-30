@@ -1,0 +1,11 @@
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.Infrastructure.Logger\bin\Debug\net5.0-windows\Chapter8.Infrastructure.Logger.deps.json
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.Infrastructure.Logger\bin\Debug\net5.0-windows\Chapter8.Infrastructure.Logger.dll
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.Infrastructure.Logger\bin\Debug\net5.0-windows\ref\Chapter8.Infrastructure.Logger.dll
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.Infrastructure.Logger\bin\Debug\net5.0-windows\Chapter8.Infrastructure.Logger.pdb
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.Infrastructure.Logger\obj\Debug\net5.0-windows\Chapter8.Infrastructure.Logger.GeneratedMSBuildEditorConfig.editorconfig
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.Infrastructure.Logger\obj\Debug\net5.0-windows\Chapter8.Infrastructure.Logger.AssemblyInfoInputs.cache
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.Infrastructure.Logger\obj\Debug\net5.0-windows\Chapter8.Infrastructure.Logger.AssemblyInfo.cs
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.Infrastructure.Logger\obj\Debug\net5.0-windows\Chapter8.Infrastructure.Logger.csproj.CoreCompileInputs.cache
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.Infrastructure.Logger\obj\Debug\net5.0-windows\Chapter8.Infrastructure.Logger.dll
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.Infrastructure.Logger\obj\Debug\net5.0-windows\ref\Chapter8.Infrastructure.Logger.dll
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.Infrastructure.Logger\obj\Debug\net5.0-windows\Chapter8.Infrastructure.Logger.pdb

@@ -1,0 +1,55 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Chapter8.AddFriend/1.0.0": {
+        "dependencies": {
+          "Chapter8.Infrastructure.Common": "1.0.0",
+          "System.ComponentModel.Composition": "5.0.0"
+        },
+        "runtime": {
+          "Chapter8.AddFriend.dll": {}
+        }
+      },
+      "System.ComponentModel.Composition/5.0.0": {
+        "runtime": {
+          "lib/netcoreapp2.0/System.ComponentModel.Composition.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "5.0.20.51904"
+          }
+        }
+      },
+      "Chapter8.Infrastructure.Common/1.0.0": {
+        "dependencies": {
+          "System.ComponentModel.Composition": "5.0.0"
+        },
+        "runtime": {
+          "Chapter8.Infrastructure.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chapter8.AddFriend/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.ComponentModel.Composition/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YL8iA3VOFxhyomn7FxtBgh3F+8XG5jOfT5UcqYLtkafSa6g6alQfKZuRwlEIWe+tzH6OVnj0Ekg5tn/DmV7SkQ==",
+      "path": "system.componentmodel.composition/5.0.0",
+      "hashPath": "system.componentmodel.composition.5.0.0.nupkg.sha512"
+    },
+    "Chapter8.Infrastructure.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

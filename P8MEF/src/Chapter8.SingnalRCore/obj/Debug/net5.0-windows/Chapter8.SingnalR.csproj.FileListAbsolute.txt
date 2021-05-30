@@ -1,0 +1,11 @@
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.SingnalRCore\bin\Debug\net5.0-windows\Chapter8.SingnalR.deps.json
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.SingnalRCore\bin\Debug\net5.0-windows\Chapter8.SingnalR.dll
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.SingnalRCore\bin\Debug\net5.0-windows\ref\Chapter8.SingnalR.dll
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.SingnalRCore\bin\Debug\net5.0-windows\Chapter8.SingnalR.pdb
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.SingnalRCore\obj\Debug\net5.0-windows\Chapter8.SingnalR.GeneratedMSBuildEditorConfig.editorconfig
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.SingnalRCore\obj\Debug\net5.0-windows\Chapter8.SingnalR.AssemblyInfoInputs.cache
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.SingnalRCore\obj\Debug\net5.0-windows\Chapter8.SingnalR.AssemblyInfo.cs
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.SingnalRCore\obj\Debug\net5.0-windows\Chapter8.SingnalR.csproj.CoreCompileInputs.cache
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.SingnalRCore\obj\Debug\net5.0-windows\Chapter8.SingnalR.dll
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.SingnalRCore\obj\Debug\net5.0-windows\ref\Chapter8.SingnalR.dll
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.SingnalRCore\obj\Debug\net5.0-windows\Chapter8.SingnalR.pdb

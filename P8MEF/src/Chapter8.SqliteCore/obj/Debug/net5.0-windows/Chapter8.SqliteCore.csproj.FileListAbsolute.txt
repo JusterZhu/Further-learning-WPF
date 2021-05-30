@@ -1,0 +1,12 @@
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.SqliteCore\bin\Debug\net5.0-windows\Chapter8.SqliteCore.deps.json
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.SqliteCore\bin\Debug\net5.0-windows\Chapter8.SqliteCore.dll
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.SqliteCore\bin\Debug\net5.0-windows\ref\Chapter8.SqliteCore.dll
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.SqliteCore\bin\Debug\net5.0-windows\Chapter8.SqliteCore.pdb
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.SqliteCore\obj\Debug\net5.0-windows\Chapter8.SqliteCore.csprojAssemblyReference.cache
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.SqliteCore\obj\Debug\net5.0-windows\Chapter8.SqliteCore.GeneratedMSBuildEditorConfig.editorconfig
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.SqliteCore\obj\Debug\net5.0-windows\Chapter8.SqliteCore.AssemblyInfoInputs.cache
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.SqliteCore\obj\Debug\net5.0-windows\Chapter8.SqliteCore.AssemblyInfo.cs
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.SqliteCore\obj\Debug\net5.0-windows\Chapter8.SqliteCore.csproj.CoreCompileInputs.cache
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.SqliteCore\obj\Debug\net5.0-windows\Chapter8.SqliteCore.dll
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.SqliteCore\obj\Debug\net5.0-windows\ref\Chapter8.SqliteCore.dll
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.SqliteCore\obj\Debug\net5.0-windows\Chapter8.SqliteCore.pdb

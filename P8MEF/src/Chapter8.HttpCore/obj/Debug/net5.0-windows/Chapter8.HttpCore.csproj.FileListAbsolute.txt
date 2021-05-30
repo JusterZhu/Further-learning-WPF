@@ -1,0 +1,12 @@
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.HttpCore\bin\Debug\net5.0-windows\Chapter8.HttpCore.deps.json
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.HttpCore\bin\Debug\net5.0-windows\Chapter8.HttpCore.dll
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.HttpCore\bin\Debug\net5.0-windows\ref\Chapter8.HttpCore.dll
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.HttpCore\bin\Debug\net5.0-windows\Chapter8.HttpCore.pdb
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.HttpCore\obj\Debug\net5.0-windows\Chapter8.HttpCore.csprojAssemblyReference.cache
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.HttpCore\obj\Debug\net5.0-windows\Chapter8.HttpCore.GeneratedMSBuildEditorConfig.editorconfig
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.HttpCore\obj\Debug\net5.0-windows\Chapter8.HttpCore.AssemblyInfoInputs.cache
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.HttpCore\obj\Debug\net5.0-windows\Chapter8.HttpCore.AssemblyInfo.cs
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.HttpCore\obj\Debug\net5.0-windows\Chapter8.HttpCore.csproj.CoreCompileInputs.cache
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.HttpCore\obj\Debug\net5.0-windows\Chapter8.HttpCore.dll
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.HttpCore\obj\Debug\net5.0-windows\ref\Chapter8.HttpCore.dll
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.HttpCore\obj\Debug\net5.0-windows\Chapter8.HttpCore.pdb

@@ -1,0 +1,12 @@
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.SocketCore\bin\Debug\net5.0-windows\Chapter8.Socket.deps.json
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.SocketCore\bin\Debug\net5.0-windows\Chapter8.Socket.dll
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.SocketCore\bin\Debug\net5.0-windows\ref\Chapter8.Socket.dll
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.SocketCore\bin\Debug\net5.0-windows\Chapter8.Socket.pdb
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.SocketCore\obj\Debug\net5.0-windows\Chapter8.Socket.GeneratedMSBuildEditorConfig.editorconfig
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.SocketCore\obj\Debug\net5.0-windows\Chapter8.Socket.AssemblyInfoInputs.cache
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.SocketCore\obj\Debug\net5.0-windows\Chapter8.Socket.AssemblyInfo.cs
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.SocketCore\obj\Debug\net5.0-windows\Chapter8.Socket.csproj.CoreCompileInputs.cache
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.SocketCore\obj\Debug\net5.0-windows\Chapter8.Socket.dll
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.SocketCore\obj\Debug\net5.0-windows\ref\Chapter8.Socket.dll
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.SocketCore\obj\Debug\net5.0-windows\Chapter8.Socket.pdb
+E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\Chapter8.SocketCore\obj\Debug\net5.0-windows\Chapter8.Socket.csprojAssemblyReference.cache

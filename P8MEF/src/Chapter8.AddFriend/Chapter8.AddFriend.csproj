@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <OutputPath>E:\博客相关资料\文章\WPF编程进阶系列（更新中）\P8MEF\src\RunApplication\</OutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Resources\Imgs\" />
+    <Folder Include="Resources\Styles\" />
+    <Folder Include="Resources\Language\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.ComponentModel.Composition" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Chapter8.Infrastructure.Common\Chapter8.Infrastructure.Common.csproj" />
+  </ItemGroup>
+
+</Project>
